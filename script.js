@@ -1,3 +1,4 @@
+//kay tabanao 'to ah
 function changeTableStyle() {
     let table = document.getElementById("studentTable");
     
